@@ -1,0 +1,19 @@
+.container {
+  background-color: #DBDBDB;
+}
+
+.row {
+  border: 1px solid #000;
+}
+
+.col, .col-4 {
+  height: 150px;
+  text-align: justify;
+  overflow:auto;
+}
+
+.col-4 {
+  background-image: url('https://via.placeholder.com/200x150');
+  background-repeat: no-repeat;
+  backg
+}
