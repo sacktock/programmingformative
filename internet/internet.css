@@ -7,13 +7,32 @@
 }
 
 .col, .col-4 {
-  height: 150px;
+  height: 200px;
   text-align: justify;
+}
+
+.colscroll {
+  height: 70%;
   overflow:auto;
 }
 
-.col-4 {
-  background-image: url('https://via.placeholder.com/200x150');
+#iotpic {
+  background-image:url('https://s26913.pcdn.co/wp-content/uploads/2017/07/AdobeStock_133171498-1024x576.jpeg');
+  background-position: center;
   background-repeat: no-repeat;
-  backg
+  background-size: 120%;
+}
+
+#activismpic {
+  background-image:url('https://1y3k9w1hgks341lixk3c35d5-wpengine.netdna-ssl.com/wp-content/uploads/4280254856_79bde6033e_o-e1453394547142-660x400.jpg');
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#charitypic {
+  background-image:url('https://wtop.com/wp-content/uploads/2018/09/donate-780x520.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
